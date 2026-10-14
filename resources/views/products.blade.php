@@ -1,1 +1,1 @@
-<h1>{{$id}} porduct</h1>
+<h1>{{$id}} product</h1>

@@ -29,7 +29,7 @@ Route::get('/about-us', function () {
 Route::get('blogs', [BlogController::class, 'index']);
 
 Route::get('/contact', function () {
-    $company = 'blehbleh';
+    $company = 'circusje';
     return view('contact', [
         'company' => $company
     ]);

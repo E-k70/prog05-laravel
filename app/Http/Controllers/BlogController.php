@@ -8,6 +8,6 @@ class BlogController extends Controller
 {
     public function index()
     {
-        return 'My blogs';
+        return view('blogs');
     }
 }

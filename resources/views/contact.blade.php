@@ -1,4 +1,4 @@
-<h1>{{$company}} Acontract pagina</h1>
+<h1>{{$company}} Contact pagina</h1>
 <p>Wagwan Lorem ibsen dolor sit amet, consectetur adipisicing elit. Aperiam, atque autem blanditiis consequatur cumque
     dolorum eaque eius eligendi enim eos est eum ex explicabo facere fugiat fugit harum id impedit in ipsa iusto
     laboriosam laborum magnam magni maiores minus molestias natus nemo nesciunt nihil nisi nobis non nulla numquam
